@@ -2,7 +2,9 @@
 
 ## Te raden woord
 
-|C|R|E|P|E|R|E|.|
+# GODVERDOMMEEEEEEE
+
+|C|R|E|P|E|R|E|N|
 |-|-|-|-|-|-|-|-|
 |1|2|3|4|5|6|7|8|
 
@@ -19,6 +21,6 @@ S: nee
 M: nee  
 C: ja  
 R: ja  
-N: 
+N: ja
 
 CREPERE
