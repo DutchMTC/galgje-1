@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|.|.|E|P|E|.|E|.|
+|C|.|E|P|E|.|E|.|
 |-|-|-|-|-|-|-|-|
 |1|2|3|4|5|6|7|8|
 
@@ -16,4 +16,6 @@ A: nee
 I: nee  
 P: ja  
 S: nee  
-M: nee
+M: nee  
+C: ja
+R:
