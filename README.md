@@ -12,4 +12,4 @@
 ## Beurten
 E: ja  
 O: nee  
-A: 
+A: nee
