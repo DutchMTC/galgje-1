@@ -12,5 +12,6 @@
 ## Beurten
 E: Ja  
 R: Nee  
-P: Nee
-S: Nee
+P: Nee  
+S: Nee  
+K
