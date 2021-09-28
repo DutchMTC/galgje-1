@@ -12,5 +12,6 @@
 ## Beurten
 E: ja  
 O: nee  
-A: nee
-I: nee
+A: nee  
+I: nee  
+P:
