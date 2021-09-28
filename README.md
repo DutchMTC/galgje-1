@@ -17,5 +17,8 @@ I: nee
 P: ja  
 S: nee  
 M: nee  
-C: ja
-R: ja
+C: ja  
+R: ja  
+N: 
+
+CREPERE
