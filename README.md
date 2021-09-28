@@ -10,5 +10,6 @@
 ![gallow](./images/2.png)
 
 ## Beurten
-E: ja
-O: nee
+E: ja  
+O: nee  
+A: 
