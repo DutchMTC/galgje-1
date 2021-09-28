@@ -14,5 +14,6 @@ E: ja
 O: nee  
 A: nee  
 I: nee  
-P: ja
-S: nee
+P: ja  
+S: nee  
+M:
