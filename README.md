@@ -14,5 +14,6 @@ E: Ja
 R: Nee  
 P: Nee  
 S: Nee  
-K: Nee
+K: Nee  
 A: Nee
+telefoon
