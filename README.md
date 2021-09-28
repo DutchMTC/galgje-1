@@ -7,7 +7,7 @@
 |1|2|3|4|5|6|7|8|
 
 ## Score
-![gallow](./images/4.png)
+![gallow](./images/5.png)
 
 ## Beurten
 E: ja  
@@ -15,4 +15,4 @@ O: nee
 A: nee  
 I: nee  
 P: ja
-S:
+S: nee
